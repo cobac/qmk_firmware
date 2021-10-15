@@ -1,0 +1,7 @@
+OLED_ENABLE = yes
+OLED_DRIVER = SSD1306
+
+# Added by me
+LTO_ENABLE = yes
+MOUSEKEY_ENABLE = no
+VIA_ENABLE = no
